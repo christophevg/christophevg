@@ -8,10 +8,10 @@ Since the early 80s, programming languages have always had an enormous attractiv
 
 Currently my (ever changing) focus is on the pinned repos below:
 
-* [bpmn-tools](/bpmn-tools) - my collection of Python modules to work with BPMN. After a few rounds of prototyping, I'm currently working on a [1.0 target](/bpmn-tools/tree/redesign). After that I hope to revive [UmlCanvas](/umlcanvas) to the likes of [BPMN.io](https://bpmn.io).
-* [pypi-template](/pypi-template) - my semi-biased/personal template-based set of common & best practices for managing a Python project/package on [PyPi](https://pypi.org/user/christophe.vg/) - I like consistency, so most of my (Python) projects/repos are based on it
-* [baseweb](/baseweb) - my unholy matrimony of Python and [Vue(tify)](https://vuetifyjs.com), also known as my personal ultra-rapid web-application development environment, bringing together the basic and standardized technologies that I feel are appropriate for what I need to do at a given time (read: Python, Flask, OAuth, REST, SocketIO, Vue, Vuetify, JavaScript). I also try to keep [baseweb-demo](/baseweb-demo) up to date with the latest additions, yet YMMV.
-* [human-parser-generator](/human-parser-generator) - this older project is (very slowly) getting a remake/sequel transitioning it from C# to... Python 😇
+* [bpmn-tools](https://github.com/christophevg/bpmn-tools) - my collection of Python modules to work with BPMN. After a few rounds of prototyping, I'm currently working on a [1.0 target](https://github.com/christophevg/bpmn-tools/tree/redesign). After that I hope to revive [UmlCanvas](https://github.com/christophevg/umlcanvas) to the likes of [BPMN.io](https://bpmn.io).
+* [pypi-template](https://github.com/christophevg/pypi-template) - my semi-biased/personal template-based set of common & best practices for managing a Python project/package on [PyPi](https://pypi.org/user/christophe.vg/) - I like consistency, so most of my (Python) projects/repos are based on it
+* [baseweb](https://github.com/christophevg/baseweb) - my unholy matrimony of Python and [Vue(tify)](https://vuetifyjs.com), also known as my personal ultra-rapid web-application development environment, bringing together the basic and standardized technologies that I feel are appropriate for what I need to do at a given time (read: Python, Flask, OAuth, REST, SocketIO, Vue, Vuetify, JavaScript). I also try to keep [baseweb-demo](https://github.com/christophevg/baseweb-demo) up to date with the latest additions, yet YMMV.
+* [human-parser-generator](https://github.com/christophevg/human-parser-generator) - this older project is (very slowly) getting a remake/sequel transitioning it from C# to... Python 😇
 
 And please remember: everything in these repositories is all and only about software: it is software and/or enables building software. It's made mostly for fun and shared as openly as possible for others to enjoy.
 
